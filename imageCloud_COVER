@@ -21,3 +21,6 @@ print(pullImage) //imprimimos el pull de imagenes
 
 //pintamos en el mapa
 Map.addLayer(uniqueImage, simbologia, "msilva ex2") // Fin :D 
+
+//LINK
+//https://code.earthengine.google.com/links?page_size=10&days=1#:~:text=/8549b5809d52919f8df187c2ba019b7e
