@@ -35,13 +35,3 @@ chart = chart.setOptions(opciones)
 print(chart)
 
 
-
-
-
-
-
-
-
-
-
-
